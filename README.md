@@ -8,3 +8,7 @@
 This repository contains compiled Dark Battle release installers only. It does
 not contain the client or server source code. Download installers from Releases
 and verify the published SHA-256 checksum.
+
+الرابط الثابت لتحميل أحدث نسخة مباشرة:
+
+https://adelalduri.github.io/DarkBattle-Downloads/download/
